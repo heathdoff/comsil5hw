@@ -1,1 +1,1 @@
-printf("Hello ㅎㅎ");
+printf("Hello 34567890");
